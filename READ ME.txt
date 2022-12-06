@@ -1,0 +1,44 @@
+-----------------------------------------------------
+Auto-Classes
+
+Choose only ONE of the .packages inside the folder, the are all named accordingly.
+
+Cash & Lot Value: Designates the class traits based on the sims household cash AND their lot value.
+
+Cash Only: Designates the class traits based on the sims household cash ONLY.
+
+Lot Value Only: Designates the class traits based on their lot value ONLY.
+
+
+-----------------------------------------------------
+
+'REMOVE IF UNWANTED' Folder
+
+This folder contains features of the mod which can be safely taken out if you don't want them in your game. 
+Mainly includes illiteracy if you don't want to use the settings menu feature to turn it off on every sim.
+
+Side note: illiteracy has almost no effect on unplayed sims, as I've gotten this question quite a few times.
+
+
+-----------------------------------------------------
+
+How to install:
+
+https://docs.google.com/document/d/1P0TORzFxMUAeYsuh38SSRzItF_V_p4IASBJGnNEOLGI/edit?usp=sharing
+
+-----------------------------------------------------
+
+How to play the mod (Tutorials):
+
+
+https://docs.google.com/document/d/11WrV-RL203mgQ4PaczFJ3yoJcqf5LWli0ouc4IoJwXY/edit?usp=sharing
+
+-----------------------------------------------------
+
+If you need help, asking on the discord is 99% of the time the quickest way you'll recieve an answer :)
+
+https://discord.com/invite/cnJkvKj9vQ
+
+I do try my best to help over patreon, but the site doesn't always tell me I have messages & it can be hard to help if I need to see your mods folder.
+
+-----------------------------------------------------
